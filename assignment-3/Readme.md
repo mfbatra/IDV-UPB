@@ -1,0 +1,6 @@
+![Image](https://github.com/mfbatra/IDV-UPB/blob/master/assignment-3/IDV-Assignment3/image-band1.png)
+![Image](https://github.com/mfbatra/IDV-UPB/blob/master/assignment-3/IDV-Assignment3/image-band2.png)
+![Image](https://github.com/mfbatra/IDV-UPB/blob/master/assignment-3/IDV-Assignment3/image-band3.png)
+![Image](https://github.com/mfbatra/IDV-UPB/blob/master/assignment-3/IDV-Assignment3/image-band4.png)
+![Image](https://github.com/mfbatra/IDV-UPB/blob/master/assignment-3/IDV-Assignment3/non-linear-band2(d).png)
+![Image](https://github.com/mfbatra/IDV-UPB/blob/master/assignment-3/IDV-Assignment3/profile_line-band2.png)
